@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "oatmeal-hack"
+  },
+  "targets": {
+    "oatmeal-hack": {
+      "hosting": {
+        "lbrfsite": [
+          "fir-testing-benjaminro"
+        ]
+      }
+    }
   }
 }
